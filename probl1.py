@@ -4,5 +4,6 @@ A=data.count('A')
 G=data.count('G')
 T=data.count('T')
 C=data.count('C')
+
 print(A,C,G,T)
 
