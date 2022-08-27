@@ -12,4 +12,4 @@ def fib(n, k):
     else:
         return fib(n-1,k)+k*fib(n-2,k)
 
-print(fib(36,5))
+print(fib(5,3))
