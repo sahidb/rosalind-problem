@@ -52,5 +52,5 @@ def prob_dom(k, m, n):
         sum_probs.append(each_dom_frac[n]*each_prob[n])
     return sum(sum_probs)
 
-
-print(prob_dom(2, 2, 2))
+# 17 27 20
+print(prob_dom(17, 27, 20))
