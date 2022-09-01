@@ -27,6 +27,6 @@ def f(n,m):
 
     return np.sum(population[n])
 
-n = 6
-m = 3
+n = 86
+m = 19
 print(f(n,m))
